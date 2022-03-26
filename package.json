@@ -1,0 +1,21 @@
+{
+    "name": "repl-it-theme",
+    "displayName": "repl-it-theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Repl.it Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Repl.it Theme-color-theme.json"
+            }
+        ]
+    }
+}
