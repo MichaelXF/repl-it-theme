@@ -1,8 +1,8 @@
 {
-  "name": "repl-it-theme",
+  "name": "repl-it-dark-theme",
   "displayName": "Repl.it Theme",
-  "description": "",
-  "version": "0.0.1",
+  "description": "Repl.it Dark Theme in Visual Studio Code!",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.65.0"
   },
@@ -17,5 +17,17 @@
         "path": "./themes/Repl.it Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MichaelXF/repl-it-theme"
+  },
+  "author": "MichaelXF",
+  "publisher": "michaelxf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichaelXF/repl-it-theme/issues"
+  },
+  "homepage": "https://github.com/MichaelXF/repl-it-theme#readme",
+  "icon": "logo.jpeg"
 }
